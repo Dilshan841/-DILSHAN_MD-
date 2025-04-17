@@ -6,7 +6,7 @@ FORK THE REPOSITORY (Repo)
 
 NOW SESSION ID
     <br>
-<a href='https://4ec52c7b-0df8-49bf-8de4-5543d5f3cf8d-00-fec2q7b59c12.sisko.replit.dev/pair' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://4ec52c7b-0df8-49bf-8de4-5543d5f3cf8d-00-fec2q7b59c12.sisko.replit.dev/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 [`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
 # `Owner`
