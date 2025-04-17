@@ -1,15 +1,13 @@
-[`ℹ️Contact Owner`](https://wa.me/94772194789)
+## 🎀 STEP 01 -  Fork The Repo
 
-FORK THE REPOSITORY (Repo) 
-    <br>
-<a href="https://github.com/Dilshan841/-DILSHAN_MD-/tree/main-QR"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Dilshan841/-DILSHAN_MD-/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
 
-NOW SESSION ID
-    <br>
-<a href='https://5ee6e2e3-f0ce-4cb2-a49d-dcda4e437d18-00-1lehnn5glrke2.pike.replit.dev/'
+## DEPLOY BY SESSION ID (Qr code)
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
-# `Owner`
+<a href="https://vajirasesson-aa26b99b1f04.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
- <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
-
+<hr>
+<hr>
