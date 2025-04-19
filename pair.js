@@ -57,8 +57,8 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by DILSHAN ASHINSA*
-*_Made With 🚬🗿_*
+*_Pair Code Connected by Successfully✅
+*_Made With DILSHAN ASHINSA✅
 ______________________________________
 ╔════◇
 ║ *『 AMAZING YOU'VE CHOSEN DILSHAN MD 』*
@@ -66,9 +66,9 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║   🧑‍💻owner | Dilshan Ashinsa | 🧑‍💻
-|   🧑‍💻owner number = +94772194789
-║   🧑‍💻Repo:*https://github.com/Dilshan841/-DILSHAN_MD-/tree/main
+|📌owner | Dilshan Ashinsa | 🧑‍💻
+|📌owner number = +94772194789
+|📌Repo:*https://github.com/Dilshan841/-DILSHAN_MD-/tree/main
 ╚════════════════════════╝
 _____________________________________
 
