@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## Get pair code to Replit ##
+## Get Pair Code To Replit ##
 
 <a href='https://replit.com/@ashinsad459/-DILSHANMD-/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code Replit-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
