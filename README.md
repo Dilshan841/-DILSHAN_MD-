@@ -5,15 +5,23 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## Replit to SESSION ID 
+## Get pair code to Replit ##
 
-<a href="https://replit.com/@ashinsad459/-DILSHANMD-"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href='https://replit.com/@ashinsad459/-DILSHANMD-/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br>
+  
 
-<hr>
-<hr>
+
+
+
+
 
 
 
 
 ###  Replit
 [![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/lakaofc/laka-md)
+
+
