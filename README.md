@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## DEPLOY BY SESSION ID (Qr code)
+## SESSION ID (Qr code)
 
 <a href="https://replit.com/@ashinsad459/-DILSHANMD-"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
