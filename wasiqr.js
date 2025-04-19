@@ -59,8 +59,8 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By DILSHAN MD*
-*_Made With 🤍_*
+*_Session Connected By Successfully✅
+*_Made With DILSHAN ASHINSA✅
 ______________________________________
 ╔════◇
 ║ *『 🧑‍💻DILSHAN MD🧑‍💻 』*
@@ -68,9 +68,9 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 ••••
-║   🧑‍💻Owner:*🧑‍💻 | Dilshan Ashinsa | 🧑‍💻
-|   🧑‍💻Owner number = +94772194789
-║   🧑‍💻Repo:*https://github.com/Dilshan841/-DILSHAN_MD-/tree/main
+|📌Owner:*🧑‍💻 | Dilshan Ashinsa | 🧑‍💻
+|📌Owner number = +94772194789
+|📌Repo:*https://github.com/Dilshan841/-DILSHAN_MD-/tree/main
 ╚════════════════════════╝
 _____________________________________
 	
