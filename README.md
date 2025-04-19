@@ -7,7 +7,7 @@
 
 ## DEPLOY BY SESSION ID (Qr code)
 
-<a href="https://5ee6e2e3-f0ce-4cb2-a49d-dcda4e437d18-00-1lehnn5glrke2.pike.replit.dev/pair"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://replit.com/@ashinsad459/-DILSHANMD-"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 <hr>
 <hr>
